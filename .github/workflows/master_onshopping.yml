@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'OnShopping'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B0A1C0D6F97411C9A94931A9C884897 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D682E6BBAD643D5B2B3B5E442C77549 }}
           package: .
